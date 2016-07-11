@@ -1,6 +1,6 @@
 {
   "name": "ember-modal-dialog",
-  "version": "0.8.4",
+  "version": "0.8.6",
   "description": "An ember-cli addon for implementing modal dialogs",
   "directories": {
     "doc": "doc",
@@ -46,7 +46,7 @@
   },
   "dependencies": {
     "ember-cli-babel": "^5.1.3",
-    "ember-cli-htmlbars": "0.7.9",
+    "ember-cli-htmlbars": "1.0.3",
     "ember-cli-version-checker": "^1.1.4",
     "ember-wormhole": "^0.3.4"
   },
